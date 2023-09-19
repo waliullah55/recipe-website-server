@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "banner_img": "https://i.ibb.co/r0QwbgL/baked-chicken-breast-9-C4-F43-W-1200x600.jpg",
+    "review": 5,
+    "title": "Baked Chicken Breast",
+    "sub-title": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking."
+  },
+  {
+    "id": 2,
+    "banner_img": "https://i.ibb.co/TLKcgyJ/homemade-chicken-tikka-masala-AW6-RTJ7-1200x600.jpg",
+    "review": 4.5,
+    "title": "Chicken Tikka Masala",
+    "sub-title": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking."
+  },
+  {
+    "id": 3,
+    "banner_img": "https://i.ibb.co/9WfjKmh/meat-burger-with-salad-cheese-tomato-and-ketchup-KRH2-A48-1200x600.jpg",
+    "review": 3.8,
+    "title": "Ultimate Cheese Burger",
+    "sub-title": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking."
+  },
+  {
+    "id": 4,
+    "banner_img": "https://i.ibb.co/Qj2m6RB/raspberry-tartlet-dessert-with-almond-flakes-34-Z9-TYK-1200x600.jpg",
+    "review": 4.8,
+    "title": "Raspberry Tartlet",
+    "sub-title": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking."
+  }
+]

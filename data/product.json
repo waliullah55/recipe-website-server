@@ -1,57 +1,68 @@
 [
-    {
-      "id": 1,
-      "img": "https://i.ibb.co/YPDLS1F/appetizer-bruschetta-with-tuna-and-tomatoes-LKA5-ZYU-omrs5yczemz943vxo1dqw9tztvscarh3mzggf5azkw.jpg",
-      "title": "Baked Chicken Breast",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget arcu eu justo luctus tristique. Nullam vestibulum, dolor id ultrices.",
-      "review_star": 4.5,
-      "author": "John Doe",
-      "author_image": "author_image_url_1.jpg"
-    },
-    {
-      "id": 2,
-      "img": "https://i.ibb.co/d5rdfkc/beef-steak-tomahawk-S3-JHQLN-omrts6h2r6ooajb7o7fsckvwj4sv3smiz698m6z25c.jpg",
-      "title": "Tofu and Cheese Pancakes",
-      "description": "Praesent cursus, justo ut ultrices accumsan, lorem augue eleifend ipsum, ut convallis nunc dolor vel ex. Vestibulum scelerisque mauris ut gravida.",
-      "review_star": 3.8,
-      "author": "Jane Smith",
-      "author_image": "author_image_url_2.jpg"
-    },
-    {
-      "id": 3,
-      "img": "https://i.ibb.co/ncFFQLy/cooked-vegetables-according-to-chinese-recipe-PN2-GKUB-omrff2jgxcsv5cfw86lk4kjvmzkfiaqk7pxv13p38g.jpg",
-      "title": "Chinese Veggie Stir Fry",
-      "description": "In hac habitasse platea dictumst. Vivamus vitae quam odio. Fusce vitae ultricies nisl. Sed vel lorem at elit commodo efficitur.",
-      "review_star": 5.0,
-      "author": "Robert Johnson",
-      "author_image": "author_image_url_3.jpg"
-    },
-    {
-      "id": 4,
-      "img": "https://i.ibb.co/jgh6Ngg/pecan-pie-tart-in-baking-dish-traditional-festive-9-WMXQ3-Z-omrtq2c5dlsg64dt0sj08m3kex84sb89opewqs3y.jpg",
-      "title": "Chinese Veggie Stir Fry",
-      "description": "Curabitur tristique quam ut sapien bibendum, vel feugiat massa finibus. Suspendisse potenti. Integer efficitur libero euismod nisl sagittis.",
-      "review_star": 4.2,
-      "author": "Emily White",
-      "author_image": "author_image_url_4.jpg"
-    },
-    {
-      "id": 5,
-      "img": "https://i.ibb.co/jgh6Ngg/pecan-pie-tart-in-baking-dish-traditional-festive-9-WMXQ3-Z-omrtq2c5dlsg64dt0sj08m3kex84sb89opewqs3y.jpg",
-      "title": "Tart Pecan Pie",
-      "description": "Aenean in lobortis libero, id volutpat purus. Phasellus tincidunt erat nec laoreet. Nullam vel quam nec justo euismod.",
-      "review_star": 4.7,
-      "author": "Michael Brown",
-      "author_image": "author_image_url_5.jpg"
-    },
-    {
-      "id": 6,
-      "img": "https://i.ibb.co/YPDLS1F/appetizer-bruschetta-with-tuna-and-tomatoes-LKA5-ZYU-omrs5yczemz943vxo1dqw9tztvscarh3mzggf5azkw.jpg",
-      "title": "Tomahawk Steak",
-      "description": "Duis tristique felis vel urna convallis, eget congue dolor facilisis. Sed et efficitur lectus. Vivamus auctor dignissim purus.",
-      "review_star": 3.5,
-      "author": "Sarah Davis",
-      "author_image": "author_image_url_6.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Beef",
+    "time": "20 mins",
+    "img": "https://i.ibb.co/YPDLS1F/appetizer-bruschetta-with-tuna-and-tomatoes-LKA5-ZYU-omrs5yczemz943vxo1dqw9tztvscarh3mzggf5azkw.jpg",
+    "title": "Baked Chicken Breast",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget arcu eu justo luctus tristique. Nullam vestibulum, dolor id ultrices.",
+    "review_star": 4.5,
+    "author": "John Doe",
+    "author_image": "https://i.ibb.co/sKy6KBY/writer-with-crumpled-paper-clipart-49373.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Desserts",
+    "time": "30 mins",
+    "img": "https://i.ibb.co/d5rdfkc/beef-steak-tomahawk-S3-JHQLN-omrts6h2r6ooajb7o7fsckvwj4sv3smiz698m6z25c.jpg",
+    "title": "Tofu and Cheese Pancakes",
+    "description": "Praesent cursus, justo ut ultrices accumsan, lorem augue eleifend ipsum, ut convallis nunc dolor vel ex. Vestibulum scelerisque mauris ut gravida.",
+    "review_star": 3.8,
+    "author": "Jane Smith",
+    "author_image": "https://i.ibb.co/sKy6KBY/writer-with-crumpled-paper-clipart-49373.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vegetarian",
+    "time": "1 hr 20 mins",
+    "img": "https://i.ibb.co/ncFFQLy/cooked-vegetables-according-to-chinese-recipe-PN2-GKUB-omrff2jgxcsv5cfw86lk4kjvmzkfiaqk7pxv13p38g.jpg",
+    "title": "Chinese Veggie Stir Fry",
+    "description": "In hac habitasse platea dictumst. Vivamus vitae quam odio. Fusce vitae ultricies nisl. Sed vel lorem at elit commodo efficitur.",
+    "review_star": 5.0,
+    "author": "Robert Johnson",
+    "author_image": "https://i.ibb.co/sKy6KBY/writer-with-crumpled-paper-clipart-49373.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Beef",
+    "time": "45 mins",
+    "img": "https://i.ibb.co/jgh6Ngg/pecan-pie-tart-in-baking-dish-traditional-festive-9-WMXQ3-Z-omrtq2c5dlsg64dt0sj08m3kex84sb89opewqs3y.jpg",
+    "title": "Chinese Veggie Stir Fry",
+    "description": "Curabitur tristique quam ut sapien bibendum, vel feugiat massa finibus. Suspendisse potenti. Integer efficitur libero euismod nisl sagittis.",
+    "review_star": 4.2,
+    "author": "Emily White",
+    "author_image": "https://i.ibb.co/sKy6KBY/writer-with-crumpled-paper-clipart-49373.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chiken",
+    "time": "30 mins",
+    "img": "https://i.ibb.co/jgh6Ngg/pecan-pie-tart-in-baking-dish-traditional-festive-9-WMXQ3-Z-omrtq2c5dlsg64dt0sj08m3kex84sb89opewqs3y.jpg",
+    "title": "Tart Pecan Pie",
+    "description": "Aenean in lobortis libero, id volutpat purus. Phasellus tincidunt erat nec laoreet. Nullam vel quam nec justo euismod.",
+    "review_star": 4.7,
+    "author": "Michael Brown",
+    "author_image": "https://i.ibb.co/sKy6KBY/writer-with-crumpled-paper-clipart-49373.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Vegetarian",
+    "time": "1 hr 20 mins",
+    "img": "https://i.ibb.co/YPDLS1F/appetizer-bruschetta-with-tuna-and-tomatoes-LKA5-ZYU-omrs5yczemz943vxo1dqw9tztvscarh3mzggf5azkw.jpg",
+    "title": "Tomahawk Steak",
+    "description": "Duis tristique felis vel urna convallis, eget congue dolor facilisis. Sed et efficitur lectus. Vivamus auctor dignissim purus.",
+    "review_star": 3.5,
+    "author": "Sarah Davis",
+    "author_image": "https://i.ibb.co/sKy6KBY/writer-with-crumpled-paper-clipart-49373.jpg"
+  }
+]

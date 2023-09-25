@@ -1,0 +1,321 @@
+[
+  {
+    "id": "1",
+    "rating": 4.5,
+    "name": "Zubaida Tariq ",
+    "image": "https://i.ibb.co/cTpvHrq/724599-Chef-Zakircopy-1403278101.jpg",
+    "like": 4500,
+    "recipe_quantity": 4,
+    "experience": 15,
+    "recipe_details": [
+      {
+        "id": "1",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/mhqQJQs/1000-F-524743443-y-T4-Wa-Gx-YPe-RSuum-CTTlqe-PTik-OVpm-Jim.jpg",
+        "recipe_name": "Boil pasta",
+        "rating": 4.0,
+        "recipe_elements": [
+          "8 oz pasta",
+          "Water",
+          "Salt",
+          "Yeast",
+          "Sugar"
+        ]
+      },
+      {
+        "id": "2",
+        "decs": "The meat is first simmered in water with the spices, then the stew is thickened with a flour-based paste. It is typicall",
+        "img": "https://i.ibb.co/cgTgVNM/baner-image-696x302.jpg",
+        "recipe_name": "Prepare sauce",
+        "rating": 4.5,
+        "recipe_elements": [
+          "1 cup tomato sauce",
+          "1/2 cup cream",
+          "Garlic",
+          "Onion",
+          "Olive oil"
+        ]
+      },
+      {
+        "id": "3",
+        "decs": "The pastry is rolled out and cut into triangles, then filled with a mixture of mashed potatoes, peas, and spices.",
+        "img": "https://i.ibb.co/9ZqzRGv/M-CHICKEN-BIRYANI-1.jpg",
+        "recipe_name": "Garnish",
+        "rating": 4.2,
+        "recipe_elements": [
+          "Parmesan cheese",
+          "Fresh basil leaves",
+          "Mozzarella cheese",
+          "Pepperoni",
+          "Bell peppers"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "rating": 4.8,
+    "name": "Shireen Anwar",
+    "image": "https://i.ibb.co/ch1C9nn/IMG-4657.jpg",
+    "like": 4500,
+    "recipe_quantity": 5,
+    "experience": 12,
+    "recipe_details": [
+      {
+        "id": "1",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/YPDLS1F/appetizer-bruschetta-with-tuna-and-tomatoes-LKA5-ZYU-omrs5yczemz943vxo1dqw9tztvscarh3mzggf5azkw.jpg",
+        "recipe_name": "Prepare dough",
+        "rating": 4.9,
+        "recipe_elements": [
+          "2 cups flour",
+          "Yeast",
+          "Sugar",
+          "Water",
+          "Olive oil"
+        ]
+      },
+      {
+        "id": "2",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/Fg0Fn6c/images.jpg",
+        "recipe_name": "Make sauce",
+        "rating": 4.7,
+        "recipe_elements": [
+          "Tomato paste",
+          "Herbs",
+          "Garlic",
+          "Salt"
+        ]
+      },
+      {
+        "id": "3",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/9cLjQr8/download-1.jpg",
+        "recipe_name": "Top the pizza",
+        "rating": 4.8,
+        "recipe_elements": [
+          "Pizza dough",
+          "Pizza sauce",
+          "Mozzarella cheese",
+          "Pepperoni",
+          "Bell peppers"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "rating": 4.2,
+    "name": "Gulzar Hussain",
+    "image": "https://i.ibb.co/X8xHVG3/8xxj-EDe-BACzeb6i-Z6yvqigy-LKGhx-Xw-Szyq5g-Dn4i.jpg",
+    "like": 4500,
+    "recipe_quantity": 7,
+    "experience": 7,
+    "recipe_details": [
+      {
+        "id": "1",
+        "decs": "The pastry is rolled out and cut into triangles, then filled with a mixture of mashed potatoes, peas, and spices.",
+        "img": "https://i.ibb.co/Fg0Fn6c/images.jpg",
+        "recipe_name": "Prepare cake batter",
+        "rating": 4.3,
+        "recipe_elements": [
+          "2 cups all-purpose flour",
+          "1 cup sugar",
+          "1/2 cup cocoa powder",
+          "Baking powder",
+          "Milk",
+          "Eggs",
+          "Vanilla extract"
+        ]
+      },
+      {
+        "id": "2",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/d5rdfkc/beef-steak-tomahawk-S3-JHQLN-omrts6h2r6ooajb7o7fsckvwj4sv3smiz698m6z25c.jpg",
+        "recipe_name": "Bake the cake",
+        "rating": 4.4,
+        "recipe_elements": [
+          "Cake batter",
+          "Milk",
+          "Eggs",
+          "Vanilla extract"
+        ]
+      },
+      {
+        "id": "3",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/YPDLS1F/appetizer-bruschetta-with-tuna-and-tomatoes-LKA5-ZYU-omrs5yczemz943vxo1dqw9tztvscarh3mzggf5azkw.jpg",
+        "recipe_name": "Make frosting",
+        "rating": 4.2,
+        "recipe_elements": [
+          "Butter",
+          "Powdered sugar",
+          "Cocoa powder",
+          "Milk",
+          "Vanilla extract"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "rating": 4.6,
+    "name": "Zarnak Sidhwa",
+    "image": "https://i.ibb.co/Hdm5JkX/qrrsv3ag-palash-mitra-625x300-15-September-22.webp",
+    "like": 4500,
+    "recipe_quantity": 2,
+    "experience": 9,
+    "recipe_details": [
+      {
+        "id": "1",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/Fg0Fn6c/images.jpg",
+        "recipe_name": "Prepare chicken marinade",
+        "rating": 4.5,
+        "recipe_elements": [
+          "1 lb chicken breast",
+          "Soy sauce",
+          "Sesame oil",
+          "Garlic",
+          "Ginger",
+          "Cornstarch"
+        ]
+      },
+      {
+        "id": "2",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/9cLjQr8/download-1.jpg",
+        "recipe_name": "Stir-fry chicken and vegetables",
+        "rating": 4.7,
+        "recipe_elements": [
+          "Marinated chicken",
+          "Vegetables (bell peppers, broccoli, carrots)",
+          "Vegetable oil"
+        ]
+      },
+      {
+        "id": "3",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/d5rdfkc/beef-steak-tomahawk-S3-JHQLN-omrts6h2r6ooajb7o7fsckvwj4sv3smiz698m6z25c.jpg",
+        "recipe_name": "Prepare stir-fry sauce",
+        "rating": 4.6,
+        "recipe_elements": [
+          "Soy sauce",
+          "Oyster sauce",
+          "Sugar",
+          "Water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "rating": 4.9,
+    "name": "Mehboob Khan",
+    "image": "https://i.ibb.co/nkzJ2Cd/images.jpg",
+    "like": 4500,
+    "recipe_quantity": 5,
+    "experience": 10,
+    "recipe_details": [
+      {
+        "id": "1",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/YPDLS1F/appetizer-bruschetta-with-tuna-and-tomatoes-LKA5-ZYU-omrs5yczemz943vxo1dqw9tztvscarh3mzggf5azkw.jpg",
+        "recipe_name": "Prepare salad ingredients",
+        "rating": 4.8,
+        "recipe_elements": [
+          "Cucumbers",
+          "Tomatoes",
+          "Red onion",
+          "Kalamata olives",
+          "Feta cheese",
+          "Olive oil",
+          "Red wine vinegar",
+          "Oregano"
+        ]
+      },
+      {
+        "id": "2",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/Fg0Fn6c/images.jpg",
+        "recipe_name": "Combine ingredients",
+        "rating": 4.9,
+        "recipe_elements": [
+          "Chopped vegetables and cheese",
+          "Red wine vinegar",
+          "Dressing",
+          "Oregano"
+        ]
+      },
+      {
+        "id": "3",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/9cLjQr8/download-1.jpg",
+        "recipe_name": "Toss and chill",
+        "rating": 4.9,
+        "recipe_elements": [
+          "Olive oil",
+          "Kalamata olives",
+          "Prepared Greek salad",
+          "Feta cheese"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "rating": 4.4,
+    "name": "Saadat Siddiqi",
+    "image": "https://i.ibb.co/qNRLK8g/images.jpg",
+    "like": 4500,
+    "recipe_quantity": 4,
+    "experience": 5,
+    "recipe_details": [
+      {
+        "id": "1",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/9cLjQr8/download-1.jpg",
+        "recipe_name": "Prepare vegetables",
+        "rating": 4.3,
+        "recipe_elements": [
+          "Broccoli",
+          "Carrots",
+          "Bell peppers",
+          "Snow peas",
+          "Soy sauce",
+          "Sesame oil",
+          "Garlic"
+        ]
+      },
+      {
+        "id": "2",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/YPDLS1F/appetizer-bruschetta-with-tuna-and-tomatoes-LKA5-ZYU-omrs5yczemz943vxo1dqw9tztvscarh3mzggf5azkw.jpg",
+        "recipe_name": "Prepare stir-fry sauce",
+        "rating": 4.3,
+        "recipe_elements": [
+          "Soy sauce",
+          "Sesame oil",
+          "Honey",
+          "Ginger",
+          "Cornstarch"
+        ]
+      },
+      {
+        "id": "3",
+        "decs": "Cook the rice separately and then layer it with the cooked meat and spices. The dish is then cooked on low heat until th",
+        "img": "https://i.ibb.co/Fg0Fn6c/images.jpg",
+        "recipe_name": "Combine sauce and vegetables",
+        "rating": 4.4,
+        "recipe_elements": [
+          "Soy sauce",
+          "Snow peas",
+          "Stir-fry sauce",
+          "Stir-fried vegetables"
+          
+        ]
+      }
+    ]
+  }
+]
